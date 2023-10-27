@@ -1,5 +1,4 @@
-# Dados e Aprendizagem Automática - Grupo 11 
-# 2023/2024
+# Dados e Aprendizagem Automática 2023/2024 - Grupo 11 
 
 - Afonso Xavier Cardoso Marques pg53601
 - João Paulo Peixoto Castro pg53929
