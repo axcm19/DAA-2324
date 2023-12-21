@@ -1,0 +1,12 @@
+REGRESSÃO
+- Linear Regression
+- Decision Tree Regressor
+- Redes Neuronais (Multilayer Perceptron)
+- Emsemble Learning (Gradient Boosting Regressor)
+
+
+CLASSIFICAÇÃO
+- Decision Tree Classifier
+- Logistic Regression
+- K-Means
+- K-Medoids
