@@ -1,7 +1,7 @@
 REGRESSÃO
 - Linear Regression
 - Decision Tree Regressor
-- Redes Neuronais (Multilayer Perceptron)
+- Redes Neuronais (Multilayer Perceptron) (às vezes dá outras vezes não)
 - Emsemble Learning (Gradient Boosting Regressor)
 
 
@@ -9,4 +9,4 @@ CLASSIFICAÇÃO
 - Decision Tree Classifier
 - Logistic Regression
 - K-Means
-- K-Medoids
+- K-Medoids (não funciona)
